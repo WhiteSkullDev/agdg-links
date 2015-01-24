@@ -193,6 +193,11 @@ anon make it a pain to use.
 
 	The Game Programming Wiki. Offers a lot of material, in a lot of different programming languages and libraries. Seems to have a low-level, engine creation bias.
 
+*	<http://computersciencevideos.org/Game-Engine-Development>
+
+	Jamie King's game engine playlist, covers lots of interesting and some hard to understand topics relating game and game engine development through the course of these videos.
+
+
 ### Art and Sound
 
 *	<http://www.hongkiat.com/blog/pixel-art-tutorials/>
